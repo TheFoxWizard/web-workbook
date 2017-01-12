@@ -84,6 +84,11 @@ form, input {
     overflow: scroll;
 }
 
+embed.form2 {
+    height: 337px;
+    width: 100%;
+}
+
 .form2>p {
     position: relative;
     text-align: center;
