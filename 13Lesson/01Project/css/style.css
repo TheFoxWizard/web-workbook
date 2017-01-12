@@ -85,8 +85,12 @@ form, input {
 }
 
 embed.form2 {
-    height: 337px;
+    height: 344px;
     width: 100%;
+}
+
+.panel-body {
+    padding: 15px 15px 0 15px;
 }
 
 .form2>p {
