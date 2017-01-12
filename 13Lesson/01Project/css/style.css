@@ -81,6 +81,7 @@ form, input {
 .panel2 {
     position: relative;
     height: 420px;
+    bottom: -5em;
     overflow: scroll;
 }
 
